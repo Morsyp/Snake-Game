@@ -4,5 +4,9 @@ In folder "build" you can download exe or jar(if you hava installed jre) files, 
 and you can play my mini game.
 
 ## Movement
-Press WASD or arrow keys to move around,
+Press WASD or arrow keys to move around, <br>
 also if key R pressed game gonna restart.
+
+<image src="image (3).PNG">
+<image src="image (5).PNG">
+<image src="image (4).PNG">
